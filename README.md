@@ -206,6 +206,9 @@ http://advanced/backend/web/index.php?r=site%2Flogin
 ## Yii2 Reviews Modülü
 Review ile productın one to many ilişkisi vardır. Bir productın birden fazla review'ı olurken bir review'ın sadece bir tane productı olabilir. Productların listelendiği yerde yorumları görüntüle butonu ile o product'a ait reviewları listeleriz. Aynı ekranda yeni bir review da ekleyebiliriz.
 
+###### Reviews sayfası
+![Unknown](<Unknown.png>)
+
 
 
  
