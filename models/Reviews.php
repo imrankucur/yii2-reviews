@@ -1,7 +1,7 @@
 <?php
 
 namespace imrankucur\reviews\models;
-use Melih627\products\models\Products;
+use melih058\products\models\Products;
 use onurokkyay\user\models\User;
 
 use Yii;
