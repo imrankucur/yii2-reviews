@@ -1,0 +1,36 @@
+{
+  "name": "imrankucur/yii2-content",
+  "description": "Yii2 Content Module",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "imrankucur",
+      "email": "imran.kucur@hotmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "imrankucur\\content\\": "./"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "imrankucur\\content\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
