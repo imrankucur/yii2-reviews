@@ -1,5 +1,5 @@
 {
-  "name": "imrankucur/yii2-content",
+  "name": "imrankucur/yii2-reviews",
   "description": "Yii2 Content Module",
   "type": "yii2-extension",
   "license": "MIT",
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "imrankucur\\content\\": "./"
+      "imrankucur\\reviews\\": "./"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "imrankucur\\content\\tests\\": "tests"
+      "imrankucur\\reviews\\tests\\": "tests"
     }
   },
   "repositories": [
